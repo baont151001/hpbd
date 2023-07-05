@@ -1,0 +1,9 @@
+.parent{
+    position: relative;
+}
+.above-fold{
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    transform: translate(-60%, -80%);
+}
